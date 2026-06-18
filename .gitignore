@@ -11,4 +11,5 @@ backend/uploads/*
 !backend/uploads/.gitkeep
 
 *.md
+README doc.md
 !README*.md
