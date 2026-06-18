@@ -24,12 +24,6 @@ A production-ready MERN stack healthcare appointment booking platform for patien
 ```text
 client/     React application
 server/     Express REST API
-PRD.md      Product requirements
-TRD.md      Technical requirements
-DATABASE.md Database design
-API_SPECS.md API contract
-UI_SPECS.md UI contract
-AGENTS.md   AI agent instructions
 ```
 
 ## Backend Setup
