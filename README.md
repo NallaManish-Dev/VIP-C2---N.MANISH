@@ -109,5 +109,5 @@ Deploy `client/` to Vercel
 - Deploy `backend/` to Render with the backend environment variables.
 - Use MongoDB Atlas for the production database.
 =======
-# VIP-C2---N.MANISH
->>>>>>> 5b59205e963ef658ba2d3cb7ef040ce80efc8235
+# VIP-C2-N-MANISH
+
