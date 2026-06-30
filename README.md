@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Book A Doctor
 
 A production-ready MERN stack healthcare appointment booking platform for patients and administrators.
